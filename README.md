@@ -14,7 +14,7 @@ To evaluate the performance of the model using various performance metrics and f
 To deploy the model as a web application to make it accessible to users.
 # Data:
 
-The project uses the Fake and Real News Dataset, which contains more than 20,000 news articles labeled as fake or real. The dataset is available on Kaggle and is used as the primary data source for the project.
+The project uses the Fake and Real News Dataset, which contains more than 20,000 news articles labeled as fake or real. The dataset is available on Kaggle and is used as the primary data source for the project(https://www.kaggle.com/competitions/fake-news/data).
 
 # Methodology:
 
